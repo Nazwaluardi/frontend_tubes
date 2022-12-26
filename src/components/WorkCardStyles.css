@@ -1,0 +1,14 @@
+.quest {
+    padding: 30px;
+    color: #fff;
+}
+
+table, th, td {
+    margin: 30px;
+    padding: 5px;
+    border: 1px solid white;
+    border-collapse: collapse;
+  }
+  th, td {
+    background-color: black;
+  }
